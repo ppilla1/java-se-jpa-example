@@ -1,0 +1,1 @@
+insert into Public.Address (street,city,province,country,postcode) values ('Poribagh','Dhaka','','Bangladesh','1000');
